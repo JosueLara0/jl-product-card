@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -39,16 +39,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "jl-product-card1234",
+  "name": "react-jlm-product-card",
   "author": "Josue Lara",
-  "module": "dist/jl-product-card1234.esm.js",
+  "module": "dist/react-jlm-product-card.esm.js",
   "size-limit": [
     {
-      "path": "dist/jl-product-card1234.cjs.production.min.js",
+      "path": "dist/react-jlm-product-card.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/jl-product-card1234.esm.js",
+      "path": "dist/react-jlm-product-card.esm.js",
       "limit": "10 KB"
     }
   ],
